@@ -4,6 +4,5 @@ and autofills the needed information to confirm shipment, payment and purchase.
 Note:
 - Requires selenium, beautifulsoup4 and pandas.
 - Requires current chromedriver version for compatibility.
-- This bot is used for Best Buy Canada website.
-- Must fill in the information of email, full name, phone number, address, and card information to run. To reach the end for testing purposes, credit card must be real. 
-- Confirmation buttion for purchasing is disabled.
+- This bot is used for the Best Buy Canada website.
+- Must fill in the information of email, full name, phone number, address, and card information to run. To complete an entire test, credit card must be real. Final Confirmation button for purchasing is disabled for testing purposes.
